@@ -27,7 +27,7 @@ This Python program visualizes pathfinding algorithms (currently supports BFS) u
 3. **Run the program:**
    
       ```bash
-          python main.py
+      python main.py
       ```
       
 4. **Instructions**
