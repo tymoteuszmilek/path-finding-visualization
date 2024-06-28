@@ -15,19 +15,19 @@ This Python program visualizes pathfinding algorithms (currently supports BFS) u
    git clone https://github.com/tymoteuszmilek/path-finding-visualization.git
    cd pathfinding-visualization
 
-2. **Install the required dependencies:
+2. **Install the required dependencies:**
      
       ```bash
       pip install -r requirements.txt
       ```
       
-3. **Run the program
+3. **Run the program:**
    
       ```bash
           python main.py
       ```
       
-4. **Instructions
+4. **Instructions**
   - **draw walls** hold left click and drag to draw
   - **set start position** right click on desired position 
   - **set target position** right click on desired position
