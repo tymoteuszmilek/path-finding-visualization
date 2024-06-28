@@ -1,4 +1,7 @@
 # Pathfinding Visualization with Pygame
+![PathfindingVisualization](screenshots/pathfindingVisualization.png)
+
+## Overview 
 
 This Python program visualizes pathfinding algorithms (currently supports BFS) using Pygame. It allows users to interactively set start points, target points, and draw obstacles on a grid.
 
