@@ -23,6 +23,7 @@ This Python program visualizes pathfinding algorithms (currently supports BFS) u
    ```bash
    git clone https://github.com/tymoteuszmilek/path-finding-visualization.git
    cd pathfinding-visualization/src
+   ```
 
 2. **Install the required dependencies:**
      
